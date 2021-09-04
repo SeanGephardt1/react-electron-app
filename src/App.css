@@ -1,10 +1,30 @@
+*
+{
+	box-sizing:border-box;
+	vertical-align:top;
+	margin: 0px;
+	padding: 0px;
+}
+html
+{
+	width:100%;
+	height:100%;
+}
+body, code
+{
+  font-family: 'Arial', 'Helvetica', serif, sans-serif, -system-ui;
+}
+
 .App {
   text-align: center;
+  font-family: 'Arial';
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+  animation: App-logo-spin infinite 5s linear;  
+  cursor: pointer;
 }
 
 @media (prefers-reduced-motion: no-preference) {

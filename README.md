@@ -1,10 +1,10 @@
 # Create React App with Electron Forge Demo
+# Sean Gephardt
+# copyright 2021
 
 **Installation:**
 
-```sh
-npm i && npm run dev
-```
+**npm i && npm run dev**
 
 **Tutorial:**
 
